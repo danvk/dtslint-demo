@@ -1,0 +1,13 @@
+{
+  "name": "dtslint-post",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dan Vanderkam <danvdk@gmail.com>",
+  "license": "MIT",
+  "types": "types",
+  "dependencies": {
+    "dtslint": "^0.1.2",
+    "lodash": "^4.17.4",
+    "typescript": "^2.4.2"
+  }
+}
